@@ -1,22 +1,57 @@
-#PROJECT OVERVIEW
+# CSE0001: Digital Literacy Project Portfolio
 
-**NAME:** Shaurya Agrawal  
-**REGISTRATION NUMBER:** 25BCE10402
-**MODULE:** Digital Literacy and Online Safety  
+## 👤 Student Information
+•⁠  ⁠*Name:* Shaurya Agrawal
+•⁠  ⁠*Registration Number:* 25BCE10402
+•⁠  ⁠*Branch:* B.Tech CSE CORE
+•⁠  ⁠*Batch:* 2025-2029 
+•⁠  ⁠*Course:* CSE0001 - Digital Literacy 
 
-• Digital literacy refers to the ability to use technology effectively, safely, and responsibly.  
-• This project focuses on digital tools, online safety, and professional communication.  
-• It helps students understand cyber awareness, digital presence, and practical tech skills.  
-• The project also builds knowledge about cybercrime prevention and responsible internet use.  
+---
 
-**SUMMARY**
+## 📝 Project Overview
+This repository contains the complete Digital Literacy Portfolio developed as part of the Student Digital Ambassador role.The project demonstrates proficiency across five modules: visual communication, professional branding, technical collaboration, email etiquette, and cybersecurity awareness.
 
-• **Task 1:** Learned basics of digital literacy, useful tools for students, safe internet practices, professional presence, and email etiquette.  
+---
 
-• **Task 2:** Created a GitHub README, LinkedIn profile, and Kaggle profile to build a professional online presence.  
+## 📁 Repository Structure & Module Summaries
 
-• **Task 3:** Designed a digital literacy quiz using Google Forms and analyzed responses using Google Sheets.  
+### [Module 1: Digital Literacy Awareness](./task-1-presentation/)
+•⁠  ⁠*Deliverable:* An infographic created using Canva.
+•⁠  ⁠*Focus:* Explaining digital literacy and essential tools to peers.
 
-• **Task 4:** Practiced professional email writing, created a social media safety checklist, and learned about communication mistakes.  
+### [Module 2: Student Digital Portfolio](./task-2-portfolio/)
+•⁠  ⁠*Deliverable:* Professional profiles on GitHub, LinkedIn, and Kaggle.
+•⁠  ⁠*Focus:* Establishing a foundational professional digital presence.
 
-• **Task 5:** Studied UPI/online payment fraud, created a safety checklist, and understood how to stay safe from cybercrimes.  
+### [Module 3: Coding & Collaboration](./task-3-platforms/)
+•⁠  ⁠*Deliverable:* HackerRank challenge completion and a Google Form quiz.
+•⁠  ⁠*Focus:* Mastering technical platforms and cloud collaboration tools.
+•⁠  ⁠*Quiz Link:* https://docs.google.com/forms/d/e/1FAIpQLSdDUAL_6cJLO1Nyqwx7MDwFTFYSKj-hvUhB6ksAlm4H9A7u_g/viewform?usp=publish-editor
+
+### [Module 4: Professional Communication](./task-4-email-etiquette/)
+•⁠  ⁠*Deliverable:* Professional email drafts and social media checklist.
+•⁠  ⁠*Focus:* Practicing formal communication and responsible social media usage.
+
+### [Module 5: Cybercrime Awareness](./task-5-cybercrime/)
+•⁠  ⁠*Deliverable:* A case study on UPI fraud and a prevention checklist.
+•⁠  ⁠*Focus:* Identifying online threats and promoting safe digital habits.
+
+### [Final Project Report](./Report/)
+•⁠  ⁠*File:* ⁠ Project_Report.pdf ⁠ 
+•⁠  ⁠*Content:* Detailed reflections and learning outcomes for all 5 tasks.
+
+---
+
+## 🛠️ Tools Used
+•⁠  ⁠*Version Control:* GitHub 
+•⁠  ⁠*Design:* Canva
+•⁠  ⁠*Collaboration:* Google Workspace 
+•⁠  ⁠*Coding:* HackerRank 
+
+---
+
+## 📞 Support & Reporting
+As a Digital Ambassador, I advocate for safe internet use. If you encounter cybercrime, report it to:
+•⁠  ⁠*Portal:* [cybercrime.gov.in](https://cybercrime.gov.in) 
+•⁠  ⁠*Helpline:* 1930
