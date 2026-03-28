@@ -1,0 +1,16 @@
+'Stay Safe Online' checklist
+Checklist For Being Cyber Secure While Studying At College In India
+Use passwords that are both strong (hard to figure out) and different (no duplicate passwords across accounts).
+Make sure you have 2-step authentication (2FA) turned on for any important apps such as email, banks and/or social media.
+Do not click on or download from unknown sources.
+Keep everything updated (devices and apps) to avoid being exposed to vulnerabilities with security.
+Do not use public wifi for logging into any type of sensitive account whether it’s a bank or an email account.
+Do not approve UPI payment requests you receive from people you don’t know. You do not need to approve to get money into your account.
+Do not provide OTP (one time password), UPI PIN (unified payment interface personal identification number) or bank information to anyone, regardless of whether or not they say they are from your bank.
+When you provide personal or financial information online, always check that you are giving them to the correct website by checking the URL of the site that you’re on.
+Always sign off of shared devices after use and avoid saving your passwords to public computers.
+Be cautious about what you post to social media because it may compromise your identity and the privacy of you and others.
+
+🚨 Report Cyber Crime
+To report an incident, visit: National Cyber Crime Portal: https://cybercrime.gov.in
+Helpline #: 1930
